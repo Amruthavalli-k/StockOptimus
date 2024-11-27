@@ -1,5 +1,3 @@
-# StockOptimus
-
 # StockOptima: The Future of Commodities Forecasting
 ## Project Overview:
 Stock Optimus is an LSTM-based deep learning model designed for accurate prediction and forecasting of prices for 22 essential food commodities across India. The model is powered by real-time data collected from 550 price reporting centers nationwide, ensuring precise and reliable forecasts tailored to the unique market dynamics of India. This project incorporates data on weather conditions, seasonality, and market trends to support timely and informed decision-making by officials.
